@@ -1,4 +1,4 @@
-require "pry"
+require"pry"
 
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
